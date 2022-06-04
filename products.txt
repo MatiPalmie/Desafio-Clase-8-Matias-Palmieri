@@ -1,0 +1,38 @@
+[
+  {
+    "nombre": "pc1",
+    "precio": "1000",
+    "foto": "pc1",
+    "id": 1
+  },
+  {
+    "nombre": "pc2",
+    "precio": "2000",
+    "foto": "pc2",
+    "id": 2
+  },
+  {
+    "nombre": "notebook",
+    "precio": "3000",
+    "foto": "ntbk1",
+    "id": 3
+  },
+  {
+    "nombre": "mouse1",
+    "precio": "100",
+    "foto": "mouse",
+    "id": 4
+  },
+  {
+    "nombre": "teclado",
+    "precio": "200",
+    "foto": "teclado",
+    "id": 5
+  },
+  {
+    "nombre": "gforce 3070",
+    "precio": "1000",
+    "foto": "gforce",
+    "id": 6
+  }
+]
